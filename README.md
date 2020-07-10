@@ -225,6 +225,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 
 ### English Courses
 - [Codeacademy.com](https://www.codecademy.com/)  
+- [Sololearn.com](https://www.sololearn.com/)  
 - [Freecodecamp.org](https://www.freecodecamp.org/)  
 - [ocw.mit.edu](https://ocw.mit.edu/index.htm)  
 - [learndigital.withgoogle.com](https://learndigital.withgoogle.com/digitalgarage/courses)  
