@@ -18,6 +18,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
   - [3D Models](#3d-models)  
   - [3D Characters](#3d-characters)  
   - [3D and 2D Animations](#3d-and-3d-animations)
+  - [Icons](#icons)  
   
 
 
@@ -173,3 +174,14 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Videezy.com](https://www.videezy.com/free-video/animation) (2D)  
 - [Videvo.net](https://www.videvo.net/free-motion-graphics/) (2D)  
 - [Pixabay.com](https://pixabay.com/es/videos/search/motion%20backgrounds/)  (2D)  
+
+### Icons
+- [Flaticon.com](https://www.flaticon.com/)  
+- [Icons8.com](https://icons8.com/icons/set/library)  
+- [Thenounproject.com](https://thenounproject.com/)  
+- [Orioniconlibrary.com](https://orioniconlibrary.com/all-icons)  
+- [Iconmonstr.com](https://iconmonstr.com/)  
+- [Freepik.com](https://www.freepik.com/popular-icons)  
+- [Smashicons.com](https://smashicons.com/free-icons)  
+- [Roundicons.com](https://roundicons.com/vector-free-icons/)  
+- [Streamlineicons.com](https://www.streamlineicons.com/free/)  
