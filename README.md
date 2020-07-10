@@ -9,7 +9,11 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
   - [Graphics 3D](#graphics-3d) 
   - [Game Engine](#game-engine) 
   - [IDEs](#ides)  
+- [Resources](#resources)
+  - [Sound FX](#sound-fx)  
+  - [Music](#music)
   
+
 
 ### Software
 #### Code Editors
@@ -85,3 +89,23 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Xcode](https://developer.apple.com/xcode/)  
 - [MonoDevelop](https://www.monodevelop.com/)  
 - [Geany](https://www.geany.org/)  
+
+
+
+### Resources
+#### Sound FX
+- [Freesound.org](https://freesound.org/browse/tags/sound-effects/)  
+- [FreeSFX.co.uk](https://freesfx.co.uk/)  
+- [FreeSoundEffects.com](https://www.freesoundeffects.com/)  
+- [SoundBible.com](http://soundbible.com/free-sound-effects-1.html)  
+- [BBCSFX.acropolis.org.uk](http://bbcsfx.acropolis.org.uk/)  
+- [ZapSlat.com](https://www.zapsplat.com/)  
+- [SoundSnap.com](https://www.soundsnap.com/)  
+
+### Music
+- [FreeMusicArchive.org](https://freemusicarchive.org/)  
+- [Bensound.com](https://www.bensound.com/)  
+- [Freeplaymusic.com](https://freeplaymusic.com/)  
+- [Artlist.io](https://artlist.io/)  
+- [HookSounds.com](https://www.hooksounds.com/es/)  
+- [Mixkit.co](https://mixkit.co/free-stock-music/)  
