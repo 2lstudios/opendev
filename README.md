@@ -21,6 +21,12 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
   - [Icons](#icons)  
 - [Templates](#templates)
   - [Websites](#websites)
+  - [VideoGames](#videogames)
+  - [Applications](#applications)
+- [Courses](#courses)
+  - [Spanish Courses](#spanish-courses)  
+  - [English Courses](#english-courses)  
+  - [Multi Language Courses](multi-language-courses)  
   
 
 
@@ -208,3 +214,24 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Sourcecodester.com](https://www.sourcecodester.com/)  
 - [Fossdroid.com](https://fossdroid.com/)  
 - [Datamation.com](https://www.datamation.com/open-source/open-source-software-list-ultimate-list-1.html)  
+
+
+
+### Courses
+#### Spanish Courses
+- [FaztWeb](https://www.faztweb.com/)  
+- [Platzi.com](https://platzi.com/)  
+- [Ed.team](https://ed.team/)  
+
+### English Courses
+- [Codeacademy.com](https://www.codecademy.com/)  
+- [Freecodecamp.org](https://www.freecodecamp.org/)  
+- [ocw.mit.edu](https://ocw.mit.edu/index.htm)  
+- [learndigital.withgoogle.com](https://learndigital.withgoogle.com/digitalgarage/courses)  
+- [khanacademy.org](https://www.khanacademy.org/)  
+- [Linkedin.com](https://www.linkedin.com/learning/)  
+
+### Multi Language Courses
+- [Coursera.org](https://coursera.org/)  
+- [edX](https://www.edx.org/)  
+- [Udemy](https://www.udemy.com/)  
