@@ -9,9 +9,15 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
   - [Graphics 3D](#graphics-3d) 
   - [Game Engine](#game-engine) 
   - [IDEs](#ides)  
+  - [Animations](#animations)  
 - [Resources](#resources)
   - [Sound FX](#sound-fx)  
-  - [Music](#music)
+  - [Music](#music)  
+  - [Textures](#textures)  
+  - [Game Assets](#game-assets)  
+  - [3D Models](#3d-models)  
+  - [3D Characters](#3d-characters)  
+  - [3D and 2D Animations](#3d-and-3d-animations)
   
 
 
@@ -57,6 +63,10 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [TinkerCAD](https://www.tinkercad.com/)  
 - [SketchUp](https://www.sketchup.com/es/plans-and-pricing/sketchup-free)  
 - [3DSlash](https://www.3dslash.net/index.php)  
+- [SweetHome3D](http://www.sweethome3d.com/es/) (interior design)  
+- [VRoid](https://vroid.com/en)  
+- [Makehuman](http://www.makehumancommunity.org/)  
+- [Daz3D](https://www.daz3d.com/)  
 
 ### Game Engine
 - [Unity](https://unity.com/es)  
@@ -89,6 +99,15 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Xcode](https://developer.apple.com/xcode/)  
 - [MonoDevelop](https://www.monodevelop.com/)  
 - [Geany](https://www.geany.org/)  
+
+### Animations
+- [Clara.io](https://clara.io/)  
+- [K-3D](https://sourceforge.net/projects/k3d/)  
+- [Daz3D](https://www.daz3d.com/)  
+- [SmartBody](https://smartbody.ict.usc.edu/)  
+- [BoatsAnimator](https://www.charlielee.uk/boats-animator/)  
+- [Pencil2D](https://www.pencil2d.org/)  
+- [synfig](https://www.synfig.org/)  
 
 
 
@@ -132,3 +151,25 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Kenney.nl](https://kenney.nl/)  
 - [Reinerstilesets.de](https://www.reinerstilesets.de/)  
 - [ShareCG.com](https://www.sharecg.com/)  
+
+### 3D Models
+- [Free3D.com](https://free3d.com/es/)  
+- [CGTrader.com](https://www.cgtrader.com/free-3d-models)  
+- [Turbosquid.com](https://www.turbosquid.com/es/Search/3D-Models/free)  
+- [Sketchfab.com](https://sketchfab.com/features/download)  
+- [Archive3D.net](https://archive3d.net/)  
+- [Clara.io](https://clara.io/library)  
+- [Turbosquid.com](https://www.turbosquid.com/es/3d-model/free/)  
+- [3DExport.com](https://es.3dexport.com/free-3d-models)  
+- [Sweethome3D.com](http://www.sweethome3d.com/freeModels.jsp)  
+
+### 3D Characters  
+- [hub.Vroid.com](https://hub.vroid.com/)  
+- [turbosquid.com](https://www.turbosquid.com/es/3d-model/free/character)  
+- [Mixamo.com](https://www.mixamo.com/#/?page=1&type=Character)  
+
+### 3D and 2D Animations
+- [Mixamo.com](https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack) (3D for Characters)  
+- [Videezy.com](https://www.videezy.com/free-video/animation) (2D)  
+- [Videvo.net](https://www.videvo.net/free-motion-graphics/) (2D)  
+- [Pixabay.com](https://pixabay.com/es/videos/search/motion%20backgrounds/)  (2D)  
