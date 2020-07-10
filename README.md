@@ -19,6 +19,8 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
   - [3D Characters](#3d-characters)  
   - [3D and 2D Animations](#3d-and-3d-animations)
   - [Icons](#icons)  
+- [Templates](#templates)
+  - [Websites](#websites)
   
 
 
@@ -37,7 +39,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Light Table](http://lighttable.com/)  
 - [Nano](https://www.nano-editor.org/)  
 
-### Audio
+#### Audio
 - [Audacity](https://www.audacityteam.org/download/)  
 - [FLStudio](https://www.image-line.com/downloads/flstudiodownload.html) (Paid but with unlimited Trial Version)  
 - [LMMS](https://lmms.io/download#windows)  
@@ -47,7 +49,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Reaper](https://www.reaper.fm/)  
 - [Ardour](https://community.ardour.org/download)  
 
-### Graphics 2D
+#### Graphics 2D
 - [GIMP](http://www.gimp.org.es/)  
 - [Canva](https://www.canva.com/es_419/)  
 - [Paint.NET](https://www.getpaint.net/)  
@@ -56,7 +58,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Inkscape](https://inkscape.org/es/)  
 - [Krita](https://krita.org/es/)
 
-### Graphics 3D
+#### Graphics 3D
 - [Blender](https://www.blender.org/)  
 - [MeshMixer](http://www.meshmixer.com/)  
 - [FreeCAD](https://www.freecadweb.org/)  
@@ -69,7 +71,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Makehuman](http://www.makehumancommunity.org/)  
 - [Daz3D](https://www.daz3d.com/)  
 
-### Game Engine
+#### Game Engine
 - [Unity](https://unity.com/es)  
 - [UnrealEngine](https://www.unrealengine.com/en-US/)  
 - [CryEngine](https://www.cryengine.com/)  
@@ -81,7 +83,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [GameSalad](https://gamesalad.com/)  
 - [Construct2](https://www.scirra.com/)  
 
-### IDEs
+#### IDEs
 - [Eclipse](https://www.eclipse.org/downloads/)  
 - [NetBeans](https://netbeans.org/)  
 - [Visual Studio](https://visualstudio.microsoft.com/es/)  
@@ -101,7 +103,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [MonoDevelop](https://www.monodevelop.com/)  
 - [Geany](https://www.geany.org/)  
 
-### Animations
+#### Animations
 - [Clara.io](https://clara.io/)  
 - [K-3D](https://sourceforge.net/projects/k3d/)  
 - [Daz3D](https://www.daz3d.com/)  
@@ -122,7 +124,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [ZapSlat.com](https://www.zapsplat.com/)  
 - [SoundSnap.com](https://www.soundsnap.com/)  
 
-### Music
+#### Music
 - [FreeMusicArchive.org](https://freemusicarchive.org/)  
 - [Bensound.com](https://www.bensound.com/)  
 - [Freeplaymusic.com](https://freeplaymusic.com/)  
@@ -130,7 +132,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [HookSounds.com](https://www.hooksounds.com/es/)  
 - [Mixkit.co](https://mixkit.co/free-stock-music/)   
 
-### Textures
+#### Textures
 - [Pexels.com](https://www.pexels.com/search/texture/)  
 - [Textures.com](https://www.textures.com/)  
 - [Freestocktextures.com](https://freestocktextures.com/)  
@@ -143,7 +145,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [toptal.com](https://www.toptal.com/designers/subtlepatterns/) 
 - [clipsafari.com](https://www.clipsafari.com/)  
 
-### Game Assets
+#### Game Assets
 - [Opengameart.org](https://opengameart.org/)  
 - [Craftpix.net](https://craftpix.net/freebies/)  
 - [Gameart2D.com](https://www.gameart2d.com/freebies.html)  
@@ -153,7 +155,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Reinerstilesets.de](https://www.reinerstilesets.de/)  
 - [ShareCG.com](https://www.sharecg.com/)  
 
-### 3D Models
+#### 3D Models
 - [Free3D.com](https://free3d.com/es/)  
 - [CGTrader.com](https://www.cgtrader.com/free-3d-models)  
 - [Turbosquid.com](https://www.turbosquid.com/es/Search/3D-Models/free)  
@@ -164,18 +166,18 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [3DExport.com](https://es.3dexport.com/free-3d-models)  
 - [Sweethome3D.com](http://www.sweethome3d.com/freeModels.jsp)  
 
-### 3D Characters  
+#### 3D Characters  
 - [hub.Vroid.com](https://hub.vroid.com/)  
 - [turbosquid.com](https://www.turbosquid.com/es/3d-model/free/character)  
 - [Mixamo.com](https://www.mixamo.com/#/?page=1&type=Character)  
 
-### 3D and 2D Animations
+#### 3D and 2D Animations
 - [Mixamo.com](https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack) (3D for Characters)  
 - [Videezy.com](https://www.videezy.com/free-video/animation) (2D)  
 - [Videvo.net](https://www.videvo.net/free-motion-graphics/) (2D)  
 - [Pixabay.com](https://pixabay.com/es/videos/search/motion%20backgrounds/)  (2D)  
 
-### Icons
+#### Icons
 - [Flaticon.com](https://www.flaticon.com/)  
 - [Icons8.com](https://icons8.com/icons/set/library)  
 - [Thenounproject.com](https://thenounproject.com/)  
@@ -185,3 +187,24 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Smashicons.com](https://smashicons.com/free-icons)  
 - [Roundicons.com](https://roundicons.com/vector-free-icons/)  
 - [Streamlineicons.com](https://www.streamlineicons.com/free/)  
+
+
+
+### Templates
+#### Websites
+- [free-css.com](https://www.free-css.com/free-css-templates)  
+- [colorlib.com](https://colorlib.com/wp/templates/)  
+- [webflow.com](https://webflow.com/free-website-templates)  
+- [templated.co](https://templated.co/)  
+- [os-templates.com](https://www.os-templates.com/free-website-templates)  
+
+#### Videogames
+- [osgameclones.com](https://osgameclones.com/)  
+- [makeuseof.com](https://www.makeuseof.com/tag/open-source-video-games/)  
+- [Leereilly's repository](https://github.com/leereilly/games)  
+
+#### Applications
+- [medium's post](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40?gi=39b8ef1e80d6)  
+- [Sourcecodester.com](https://www.sourcecodester.com/)  
+- [Fossdroid.com](https://fossdroid.com/)  
+- [Datamation.com](https://www.datamation.com/open-source/open-source-software-list-ultimate-list-1.html)  
