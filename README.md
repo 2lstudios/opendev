@@ -26,7 +26,7 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Courses](#courses)
   - [Spanish Courses](#spanish-courses)  
   - [English Courses](#english-courses)  
-  - [Multi Language Courses](multi-language-courses)  
+  - [Multi Language Courses](#multi-language-courses)  
   
 
 
