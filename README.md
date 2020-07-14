@@ -54,7 +54,8 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [Magic Music Maker](https://www.magix.com/es/musica/music-maker/)  
 - [Reaper](https://www.reaper.fm/)  
 - [Ardour](https://community.ardour.org/download) 
-- [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil)
+- [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil)  
+- [bfxr.net](https://www.bfxr.net/)  
 
 #### Graphics 2D
 - [GIMP](http://www.gimp.org.es/)  
