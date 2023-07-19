@@ -77,7 +77,8 @@ OpenDev is a non-profit project that tries to collect as many resources (assets)
 - [SweetHome3D](http://www.sweethome3d.com/es/) (interior design)  
 - [VRoid](https://vroid.com/en)  
 - [Makehuman](http://www.makehumancommunity.org/)  
-- [Daz3D](https://www.daz3d.com/)  
+- [Daz3D](https://www.daz3d.com/)
+- [3DHousePlanner](https://www.3dhouseplanner.com/)  
 
 #### Game Engine
 - [Unity](https://unity.com/es)  
